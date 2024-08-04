@@ -164,4 +164,6 @@ awards:
 
 ## About Me
 
-Chub-Hao Chiu is a Master's Student whose interests lie in the field of Artificial Intelligence, Augmented Reality and Internet of Things. Working with ProfessorJen-Jee Chen at the PAIR Lab.
+Chub-Hao Chiu is a Master's Student whose interests lie in the field of 
+Artificial Intelligence, Augmented Reality and Internet of Things. 
+Working with ProfessorJen-Jee Chen at the PAIR Lab.
