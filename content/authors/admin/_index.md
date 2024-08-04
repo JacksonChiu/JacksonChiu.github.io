@@ -119,8 +119,7 @@ skills:
       - name: Unity / C#
         description: ''
         percent: 40
-        icon: 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+        icon: code-bracket
           
   - name: Hobbies
     color: '#eeac02'
@@ -133,7 +132,7 @@ skills:
       - name: Build PC
         description: ''
         percent: 100
-        icon: computer
+        icon: cat
       - name: Photography
         description: ''
         percent: 80
